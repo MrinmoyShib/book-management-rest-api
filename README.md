@@ -48,7 +48,7 @@ book_api/
 
 ```bash
 # 1. Clone your repo and enter it
-git clone <your-repo-url>
+git clone <https://github.com/MrinmoyShib/book-management-rest-api>
 cd book_api
 
 # 2. Create and activate a virtual environment
